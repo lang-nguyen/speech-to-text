@@ -1,0 +1,2 @@
+Base WER: 5.27%
+Small WER: 3.84%
