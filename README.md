@@ -1,5 +1,5 @@
 # speech-to-text
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wN1GZbsJM0pGLwAEvcq0prIrhjSxACKd?usp=sharing)
 ## Dataset
 
 - I selected the **LibriSpeech (SLR12) dev-clean** dataset from [OpenSLR](https://www.openslr.org/resources.php), which includes 2703 audio files (.flac) and corresponding transcriptions (.trans.txt).
